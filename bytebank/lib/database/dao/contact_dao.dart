@@ -1,5 +1,5 @@
-import 'package:bytebank/models/contact.dart';
 import 'package:bytebank/database/app_database.dart';
+import 'package:bytebank/models/contact/contact.dart';
 
 class ContactDao {
   static const String tableSql = 'CREATE TABLE $_tableName('
