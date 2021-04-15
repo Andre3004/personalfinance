@@ -5,7 +5,7 @@ import 'package:flutter/material.dart';
 
 class Dashboard extends StatelessWidget {
   const Dashboard({
-    Key key,
+    Key? key,
   }) : super(key: key);
 
   @override

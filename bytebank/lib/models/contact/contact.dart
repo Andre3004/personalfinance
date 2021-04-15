@@ -5,13 +5,18 @@ part 'contact.g.dart';
 
 @JsonSerializable()
 class Contact{
-  final int id;
+  final int? id;
   final String name;
   final int accountNumber;
 
   Contact(this.id, this.name, this.accountNumber);
 
-  factory Contact.fromJson(Map<String, dynamic> json) => _$ContactFromJson(json);
+  static Contact fromJson(Map<String, dynamic> json) {
+    var contact = _$ContactFromJson(json);
+
+    return contact;
+  }
+
   Map<String, dynamic> toJson() => _$ContactToJson(this);
 
   @override

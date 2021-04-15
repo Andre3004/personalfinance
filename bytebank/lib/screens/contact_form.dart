@@ -55,7 +55,8 @@ class _ContactFormState extends State<ContactForm> {
                     var accountNumber =
                         int.tryParse(_accountNumberController.text);
 
-                    var contact = Contact(1, name, accountNumber);
+
+                    var contact = Contact(1, name, accountNumber != null ? accountNumber: 0);
 
                     _dao.save(contact).then(
                       (id) => Navigator.pop(context),

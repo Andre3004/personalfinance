@@ -8,7 +8,7 @@ part of 'contact.dart';
 
 Contact _$ContactFromJson(Map<String, dynamic> json) {
   return Contact(
-    json['id'] as int,
+    json['id'] as int?,
     json['name'] as String,
     json['accountNumber'] as int,
   );

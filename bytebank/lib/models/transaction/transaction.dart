@@ -4,15 +4,24 @@ part 'transaction.g.dart';
 
 @JsonSerializable()
 class Transaction {
+  final String id;
   final double value;
+  final DateTime? dateTime;
   final Contact contact;
 
   Transaction(
+    this.id,
     this.value,
     this.contact,
+    this.dateTime,
   );
 
-  factory Transaction.fromJson(Map<String, dynamic> json) => _$TransactionFromJson(json);
+  static Transaction fromJson(Map<String, dynamic> json) {
+    var obj = _$TransactionFromJson(json);
+
+    return obj;
+  }
+
   Map<String, dynamic> toJson() => _$TransactionToJson(this);
 
   @override

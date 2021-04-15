@@ -30,11 +30,10 @@ class _ContactsListState extends State<ContactsList> {
               break;
             case ConnectionState.waiting:
               return Progress();
-              break;
             case ConnectionState.active:
               break;
             case ConnectionState.done:
-              final List<Contact> contacts = snapshot.data;
+              final List<Contact> contacts = snapshot.data!;
               return ListView.builder(
                 itemBuilder: (context, index) {
                   final Contact contact = contacts[index];
@@ -51,7 +50,6 @@ class _ContactsListState extends State<ContactsList> {
                 },
                 itemCount: contacts.length,
               );
-              break;
           }
           return Text('Unknown error');
         },
@@ -76,7 +74,7 @@ class _ContactItem extends StatelessWidget {
   final Contact contact;
   final Function onClick;
 
-  _ContactItem(this.contact, {@required this.onClick});
+  _ContactItem(this.contact, {required this.onClick});
 
   @override
   Widget build(BuildContext context) {

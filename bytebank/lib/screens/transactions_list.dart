@@ -22,14 +22,13 @@ class _TransactionsListState extends State<TransactionsList> {
         body: FutureBuilder<List<Transaction>>(
           future: _webClient.findAll(),
           builder: (context, snapshot) {
-            final List<Transaction> transactions = snapshot.data;
+            final List<Transaction> transactions = snapshot.data == null ? [] : snapshot.data!;
 
             switch (snapshot.connectionState) {
               case ConnectionState.none:
                 break;
               case ConnectionState.waiting:
                 return Progress();
-                break;
               case ConnectionState.active:
                 break;
               case ConnectionState.done:
@@ -60,8 +59,6 @@ class _TransactionsListState extends State<TransactionsList> {
                   );
                 }
                 return CenteredMessage("Nenhuma transação encontrada", icon: Icons.warning);
-                break;
-
             }
 
             return CenteredMessage("Erro desconhecido.");

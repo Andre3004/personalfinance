@@ -6,7 +6,7 @@ class ItemDashboard extends StatelessWidget {
   final IconData _icon;
   final Function onClick;
 
-  ItemDashboard(this._title, this._icon, {@required this.onClick});
+  ItemDashboard(this._title, this._icon, {required this.onClick});
 
   @override
   Widget build(BuildContext context) {
