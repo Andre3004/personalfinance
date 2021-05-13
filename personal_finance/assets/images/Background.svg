@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 25.0.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<svg version="1.1" id="Camada_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 viewBox="0 0 2480.1 2205.4" style="enable-background:new 0 0 2480.1 2205.4;" xml:space="preserve">
+<style type="text/css">
+	.st0{opacity:0.2;fill:url(#Caminho_5_1_);enable-background:new    ;}
+	.st1{opacity:0.4;fill:url(#Caminho_4_1_);enable-background:new    ;}
+	.st2{opacity:0.7;fill:url(#Caminho_1_1_);enable-background:new    ;}
+	.st3{opacity:0.7;fill:url(#Caminho_2_1_);enable-background:new    ;}
+</style>
+<g id="Background" transform="translate(2480.081 2205.419) rotate(180)">
+	
+		<linearGradient id="Caminho_5_1_" gradientUnits="userSpaceOnUse" x1="1779.3383" y1="562.6746" x2="1779.3383" y2="563.6746" gradientTransform="matrix(-2055.741 0 0 2202.4719 3659093.5 -1239274.875)">
+		<stop  offset="0" style="stop-color:#6C18A4"/>
+		<stop  offset="1" style="stop-color:#3827B4"/>
+	</linearGradient>
+	<path id="Caminho_5" class="st0" d="M2472.3,397.6c0,0-683.6-275.4-1432.1-168S-2.3,0-2.3,0v2202.5h2474.6V397.6z"/>
+	
+		<linearGradient id="Caminho_4_1_" gradientUnits="userSpaceOnUse" x1="1779.3424" y1="562.6973" x2="1779.3424" y2="563.6973" gradientTransform="matrix(-2072.147 0 0 2033.652 3688297.5 -1144158.625)">
+		<stop  offset="0" style="stop-color:#6C18A4"/>
+		<stop  offset="1" style="stop-color:#3827B4"/>
+	</linearGradient>
+	<path id="Caminho_4" class="st1" d="M2479.2,181.8c0,0-413-70.2-1051.4,160.1S-2.3,221.7-2.3,221.7v1983.7h2461.8L2479.2,181.8z"/>
+	
+		<linearGradient id="Caminho_1_1_" gradientUnits="userSpaceOnUse" x1="1778.7964" y1="563.1904" x2="1777.9702" y2="563.1904" gradientTransform="matrix(-2474.446 0 0 2052.1138 4404014.5 -1154557.375)">
+		<stop  offset="0" style="stop-color:#3827B4"/>
+		<stop  offset="1" style="stop-color:#6C18A4"/>
+	</linearGradient>
+	<path id="Caminho_1" class="st2" d="M1.2,273.4c0,0,361-255.3,1086.9-48.2s1390.7,133.4,1390.7,133.4l-5.5,1837.7l-2475.5,6.2
+		L1.2,273.4z"/>
+	
+		<linearGradient id="Caminho_2_1_" gradientUnits="userSpaceOnUse" x1="1778.7384" y1="563.1924" x2="1777.5359" y2="563.1924" gradientTransform="matrix(-2067.031 0 0 2070.3999 3679190.25 -1164860.125)">
+		<stop  offset="0" style="stop-color:#3827B4"/>
+		<stop  offset="1" style="stop-color:#6C18A4"/>
+	</linearGradient>
+	<path id="Caminho_2" class="st3" d="M3.8,251.8c0,0,383.1-235.8,1252.6-28.3s1226.5,198.9,1226.5,198.9l-6.6,1786.1H-2.8L3.8,251.8
+		z"/>
+</g>
+</svg>

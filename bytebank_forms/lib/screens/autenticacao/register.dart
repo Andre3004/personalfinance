@@ -1,7 +1,6 @@
 import 'dart:io';
 
 import 'package:brasil_fields/brasil_fields.dart';
-import 'package:bytebank_forms/components/biometria.dart';
 import 'package:bytebank_forms/components/validator/flux_validator_src.dart';
 import 'package:bytebank_forms/models/cliente.dart';
 import 'package:bytebank_forms/screens/dashboard/dashboard.dart';
@@ -345,7 +344,6 @@ class Register extends StatelessWidget {
                 ],
               ),
             ),
-            Biometria()
           ],
         ),
       ),

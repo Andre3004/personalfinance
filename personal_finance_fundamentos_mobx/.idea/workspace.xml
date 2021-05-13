@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="b44b3c57-ee47-47ab-95c3-c0fa9d8bf4af" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/../api/bytebank-api-runnable/database/main/db.log" beforeDir="false" afterPath="$PROJECT_DIR$/../api/bytebank-api-runnable/database/main/db.log" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../api/bytebank-api-runnable/database/main/db.properties" beforeDir="false" afterPath="$PROJECT_DIR$/../api/bytebank-api-runnable/database/main/db.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../api/bytebank-api-runnable/database/main/db.script" beforeDir="false" afterPath="$PROJECT_DIR$/../api/bytebank-api-runnable/database/main/db.script" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../personal_finance_fundamentos/design/Finance Mobile App UI.xd" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../personal_finance_fundamentos/design/Home Screen.xd" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../personal_finance_fundamentos/design/[Dark Theme] XD-Material-Design 201218.xd" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../personal_finance_fundamentos/design/[Light Theme] XD-Material-Design 201218.xd" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../personal_finance_fundamentos/design/personal finance.xd" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Dart File" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="GitSEFilterConfiguration">
+    <file-type-list>
+      <filtered-out-file-type name="LOCAL_BRANCH" />
+      <filtered-out-file-type name="REMOTE_BRANCH" />
+      <filtered-out-file-type name="TAG" />
+      <filtered-out-file-type name="COMMIT_BY_MESSAGE" />
+    </file-type-list>
+  </component>
+  <component name="ProjectId" id="1qm5qDLz4hvbqZMEoTfbLn5uAET" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectView">
+    <navigator currentView="ProjectPane" proportions="" version="1" />
+    <panes>
+      <pane id="ProjectPane">
+        <option name="show-excluded-files" value="false" />
+      </pane>
+    </panes>
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="dart.analysis.tool.window.force.activate" value="true" />
+    <property name="dart.analysis.tool.window.visible" value="false" />
+    <property name="io.flutter.reload.alreadyRun" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../bytebank_mobx" />
+    <property name="project.structure.last.edited" value="Project" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.0" />
+    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
+    <property name="show.migrate.to.gradle.popup" value="false" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\dev\personalfinance\lib\screens\transferencia" />
+    </key>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="b44b3c57-ee47-47ab-95c3-c0fa9d8bf4af" name="Default Changelist" comment="" />
+      <created>1617672119235</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1617672119235</updated>
+      <workItem from="1617672135921" duration="53000" />
+      <workItem from="1617672228116" duration="726000" />
+      <workItem from="1617718109894" duration="663000" />
+      <workItem from="1617732893786" duration="18000" />
+      <workItem from="1617751126898" duration="9937000" />
+      <workItem from="1617886987429" duration="3692000" />
+      <workItem from="1617921756186" duration="5127000" />
+      <workItem from="1617927192664" duration="486000" />
+      <workItem from="1618003530819" duration="1054000" />
+      <workItem from="1619192473550" duration="254000" />
+    </task>
+    <servers />
+  </component>
+  <component name="ToolWindowManager">
+    <editor active="true" />
+    <layout>
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+</project>

@@ -1,0 +1,1 @@
+enum StateDefaultEnum { start, loading, sucess, error }
